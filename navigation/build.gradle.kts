@@ -25,5 +25,8 @@ dependencies {
     implementation(Dependencies.Navigation.core)
     implementation(Dependencies.Navigation.compose)
 
+    implementation(Dependencies.Compose.ui)
+    implementation(Dependencies.Compose.tooling)
+    implementation(Dependencies.Compose.material)
     implementation(Dependencies.Compose.composeActivity)
 }

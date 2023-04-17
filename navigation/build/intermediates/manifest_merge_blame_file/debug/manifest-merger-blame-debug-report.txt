@@ -3,6 +3,6 @@
 3    package="com.sr.rickandmortycompose_navigation" >
 4
 5    <uses-sdk android:minSdkVersion="23" />
-5-->E:\RicAndMortyCompose\navigation\src\main\AndroidManifest.xml
+5-->E:\android\RickAndMorty_Compose\navigation\src\main\AndroidManifest.xml
 6
 7</manifest>

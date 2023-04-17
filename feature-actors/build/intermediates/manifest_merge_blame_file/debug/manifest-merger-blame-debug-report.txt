@@ -3,6 +3,6 @@
 3    package="com.sr.rickandmortycompose_actors" >
 4
 5    <uses-sdk android:minSdkVersion="23" />
-5-->E:\RicAndMortyCompose\feature-actors\src\main\AndroidManifest.xml
+5-->E:\android\RickAndMorty_Compose\feature-actors\src\main\AndroidManifest.xml
 6
 7</manifest>

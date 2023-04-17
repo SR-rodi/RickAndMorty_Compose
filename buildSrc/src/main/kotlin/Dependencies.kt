@@ -1,7 +1,8 @@
 object Dependencies {
     object Core {
         val coreKtx = "androidx.core:core-ktx:${Versions.androidCore}"
-        val lifecycle ="androidx.lifecycle:lifecycle-runtime-ktx:${Versions.lifecycle}"
+        const val lifecycle = "androidx.lifecycle:lifecycle-runtime-ktx:${Versions.lifecycle}"
+        const val lifecycleViewModel = "androidx.lifecycle:lifecycle-viewmodel-compose:${Versions.lifecycle}"
     }
 
     object DI {

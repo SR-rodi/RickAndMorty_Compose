@@ -48,9 +48,14 @@ android {
 dependencies {
 
     implementation(project(Module.coreUi))
+    implementation(project(Module.core))
     implementation(project(Module.navigation))
+    implementation(project(Module.feature_actors))
 
     implementation(Dependencies.Accompanist.systemUiController)
+    implementation(Dependencies.DI.android)
+    implementation(Dependencies.DI.compose)
+    implementation(Dependencies.DI.core)
     implementation(Dependencies.Core.coreKtx)
     implementation(Dependencies.Core.lifecycle)
     implementation(Dependencies.Compose.ui)
@@ -59,4 +64,8 @@ dependencies {
     implementation(Dependencies.Compose.composeActivity)
     implementation(Dependencies.Navigation.core)
     implementation(Dependencies.Navigation.compose)
+
+    implementation ("com.squareup.retrofit2:retrofit:2.9.0")
+    implementation ("com.google.code.gson:gson:2.10.1")
+    implementation ("com.squareup.retrofit2:converter-gson:2.9.0")
 }
