@@ -1,0 +1,22 @@
+plugins {
+    id(Plugins.android)
+    id(Plugins.library)
+}
+
+android {
+    compileSdk = Settings.targetSdk
+    namespace = "com.sr.rickandmortycompose_core"
+    defaultConfig {
+        minSdk = Settings.minSdk
+    }
+    buildFeatures {
+        compose = true
+    }
+    composeOptions {
+        kotlinCompilerExtensionVersion = Settings.composeCompiler
+    }
+}
+
+dependencies {
+
+}
