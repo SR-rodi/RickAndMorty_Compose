@@ -1,0 +1,3 @@
+int drawable actors_ic_alien 0x0
+int drawable actors_ic_planet 0x0
+int drawable actors_ic_pulse 0x0

@@ -1,25 +1,25 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11159107140555127667.xml:2:13-83
-INJECTED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11159107140555127667.xml:2:13-83
-INJECTED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11159107140555127667.xml:2:13-83
+ADDED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6562651405562551402.xml:2:13-83
+INJECTED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6562651405562551402.xml:2:13-83
+INJECTED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6562651405562551402.xml:2:13-83
 	package
-		INJECTED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11159107140555127667.xml
-		ADDED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11159107140555127667.xml:2:13-83
-		INJECTED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11159107140555127667.xml
+		INJECTED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6562651405562551402.xml
+		ADDED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6562651405562551402.xml:2:13-83
+		INJECTED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6562651405562551402.xml
 	xmlns:android
-		ADDED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11159107140555127667.xml:2:23-81
+		ADDED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6562651405562551402.xml:2:23-81
 uses-sdk
-INJECTED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11159107140555127667.xml reason: use-sdk injection requested
-INJECTED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11159107140555127667.xml
-INJECTED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11159107140555127667.xml
-INJECTED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11159107140555127667.xml
-INJECTED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11159107140555127667.xml
+INJECTED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6562651405562551402.xml reason: use-sdk injection requested
+INJECTED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6562651405562551402.xml
+INJECTED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6562651405562551402.xml
+INJECTED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6562651405562551402.xml
+INJECTED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6562651405562551402.xml
 	android:targetSdkVersion
-		INJECTED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11159107140555127667.xml
-		ADDED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11159107140555127667.xml
-		INJECTED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11159107140555127667.xml
+		INJECTED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6562651405562551402.xml
+		ADDED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6562651405562551402.xml
+		INJECTED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6562651405562551402.xml
 	android:minSdkVersion
-		INJECTED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11159107140555127667.xml
-		ADDED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11159107140555127667.xml
-		INJECTED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11159107140555127667.xml
+		INJECTED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6562651405562551402.xml
+		ADDED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6562651405562551402.xml
+		INJECTED from E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6562651405562551402.xml

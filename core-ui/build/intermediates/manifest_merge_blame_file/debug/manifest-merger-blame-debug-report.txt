@@ -3,6 +3,6 @@
 3    package="com.example.rickandmortycompose_core_ui" >
 4
 5    <uses-sdk android:minSdkVersion="23" />
-5-->E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11159107140555127667.xml
+5-->E:\android\RickAndMorty_Compose\core-ui\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6562651405562551402.xml
 6
 7</manifest>

@@ -36,7 +36,7 @@ class MainActivity : ComponentActivity() {
                 Text(text = "Test")
                 val navigationConfiguration = OdysseyConfiguration(
                     canvas = this,
-                    backgroundColor = Theme.colors.darkGray
+                    backgroundColor = Theme.colors.blackB
 
                 )
                 setNavigationContent(

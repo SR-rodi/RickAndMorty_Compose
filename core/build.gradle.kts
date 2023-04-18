@@ -23,4 +23,7 @@ dependencies {
     implementation(Dependencies.Compose.material)
     implementation(Dependencies.Compose.composeActivity)
 
+    implementation(Dependencies.Navigation.core)
+    implementation(Dependencies.Navigation.compose)
+
 }

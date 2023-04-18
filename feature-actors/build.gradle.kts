@@ -19,6 +19,9 @@ android {
 
 dependencies {
 
+    implementation(project(Module.core))
+    implementation(project(Module.coreUi))
+
     implementation(Dependencies.Navigation.core)
     implementation(Dependencies.Navigation.compose)
     implementation(Dependencies.Compose.ui)
@@ -28,6 +31,8 @@ dependencies {
     implementation(Dependencies.DI.core)
     implementation(Dependencies.DI.compose)
     implementation(Dependencies.DI.android)
+
+    implementation ("androidx.paging:paging-compose:1.0.0-alpha18")
 
     implementation ("com.squareup.retrofit2:retrofit:2.9.0")
     implementation ("com.google.code.gson:gson:2.10.1")

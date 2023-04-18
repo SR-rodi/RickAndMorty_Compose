@@ -23,4 +23,5 @@ dependencies {
     implementation(Dependencies.Compose.tooling)
     implementation(Dependencies.Compose.material)
     implementation(Dependencies.Compose.composeActivity)
+    implementation("io.coil-kt:coil-compose:2.2.2")
 }

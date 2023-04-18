@@ -1,1 +1,4 @@
 com.sr.rickandmortycompose_actors
+drawable actors_ic_alien
+drawable actors_ic_planet
+drawable actors_ic_pulse

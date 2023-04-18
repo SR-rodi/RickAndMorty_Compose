@@ -1,2 +1,5 @@
 R_DEF: Internal format may change without notice
 local
+drawable actors_ic_alien
+drawable actors_ic_planet
+drawable actors_ic_pulse
