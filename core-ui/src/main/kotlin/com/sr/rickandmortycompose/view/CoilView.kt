@@ -13,6 +13,8 @@ import coil.size.Size
 fun CoilImage(
     url: String,
     modifier: Modifier = Modifier,
+    contentScale: ContentScale = ContentScale.Crop,
+    contentDescription:String =""
 ) {
 
     AsyncImage(
@@ -23,9 +25,8 @@ fun CoilImage(
             .scale(Scale.FILL)
             .size(Size.ORIGINAL)
             .build(),
-        contentDescription = "",
-        contentScale = ContentScale.Crop
-
+        contentDescription = contentDescription,
+        contentScale = contentScale
     )
 
 }

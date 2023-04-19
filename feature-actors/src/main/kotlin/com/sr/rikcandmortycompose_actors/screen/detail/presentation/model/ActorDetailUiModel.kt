@@ -13,4 +13,6 @@ class ActorDetailUiModel(
     val status: String,
     val type: String,
     val url: String,
+    val statusIconId:Int,
+    val genderIconId: Int,
 )

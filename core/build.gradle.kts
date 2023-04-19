@@ -25,5 +25,6 @@ dependencies {
 
     implementation(Dependencies.Navigation.core)
     implementation(Dependencies.Navigation.compose)
+    implementation ("androidx.paging:paging-compose:1.0.0-alpha18")
 
 }

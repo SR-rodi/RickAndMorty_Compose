@@ -1,7 +1,9 @@
 package com.sr.rikcandmortycompose_actors.screen.actors.presentation.model.mapper
 
-import com.sr.rikcandmortycompose_actors.screen.actors.presentation.model.ActorUiModel
+import com.sr.rikcandmortycompose_actors.root.data.ActorGender
+import com.sr.rikcandmortycompose_actors.root.data.ActorStatus
 import com.sr.rikcandmortycompose_actors.root.domain.model.ActorDomainModel
+import com.sr.rikcandmortycompose_actors.screen.actors.presentation.model.ActorUiModel
 
 class ActorMapperUiModel {
 
@@ -13,6 +15,8 @@ class ActorMapperUiModel {
             location = domainModel.location,
             name = domainModel.name,
             status = domainModel.status,
+            statusIconId = ActorStatus.getStatusIcon(actorStatus = domainModel.status),
+            genderIconId = ActorGender.getGenderIcon(domainModel.gender)
         )
     }
 
@@ -23,6 +27,9 @@ class ActorMapperUiModel {
         location = domainModel.location,
         name = domainModel.name,
         status = domainModel.status,
+        statusIconId = ActorStatus.getStatusIcon(actorStatus = domainModel.status),
+        genderIconId = ActorGender.getGenderIcon(domainModel.gender)
     )
 
 }
+

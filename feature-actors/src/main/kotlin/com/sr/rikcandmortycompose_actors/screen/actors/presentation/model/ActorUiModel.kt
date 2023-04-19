@@ -7,4 +7,6 @@ class ActorUiModel (
     val location: String,
     val name: String,
     val status: String,
+    val statusIconId:Int,
+    val genderIconId:Int,
 )
